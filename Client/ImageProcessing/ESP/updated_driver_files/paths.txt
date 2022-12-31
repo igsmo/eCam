@@ -1,0 +1,13 @@
+Here are absolute paths to where these driver files were retrieved from after being edited:
+
+C:\Espressif\frameworks\esp-idf-v4.4\esp-who\components\modules\camera\who_camera.h
+
+C:\Espressif\frameworks\esp-idf-v4.4\esp-who\components\esp32-camera\driver\esp_camera.c
+
+C:\Espressif\frameworks\esp-idf-v4.4\esp-who\components\esp32-camera\sensors\ov2640.c
+
+C:\Espressif\frameworks\esp-idf-v4.4\esp-who\components\esp32-camera\sensors\private_include\ov2640_settings.h
+
+C:\Espressif\frameworks\esp-idf-v4.4\esp-who\components\esp32-camera\driver\cam_hal.c
+
+C:\Espressif\frameworks\esp-idf-v4.4\esp-who\components\esp32-camera\target\esp32s3\ll_cam.c
