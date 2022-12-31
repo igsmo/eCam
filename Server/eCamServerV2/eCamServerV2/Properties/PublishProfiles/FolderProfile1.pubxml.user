@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\U405460\OneDrive\SDU\SEMESTER 5\EXT\BACKEND_SOFTWARE\eCamServerV2\eCamServerV2\bin\Debug\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-11-24T15:01:22.0348325Z;True|2022-11-24T15:59:04.1478457+01:00;True|2022-11-24T15:55:46.1505057+01:00;True|2022-11-24T15:49:12.0826266+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
