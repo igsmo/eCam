@@ -4,6 +4,7 @@
 #include "esp_log.h"
 #include "who_camera.h"
 #include "QR_Posing.h"
+#include "esp_code_scanner.h"
 #include <string.h>
 //#include "logo_en_240x240_lcd.h"
 const TickType_t xDelay = 500 / 200;
@@ -25,7 +26,7 @@ extern "C" void app_main()
     gpio_config(&gpio_conf);
     xQueueCAMFrame = xQueueCreate(2, sizeof(camera_fb_t *));
     register_camera(PIXFORMAT_RGB565, FRAMESIZE_240X240, 2, xQueueCAMFrame);
-    register_lcd(xQueueCAMFrame, NULL, true, 3, 20, 5);
+    register_lcd(xQueueCAMFrame, NULL, true, 5, 20, 5);
 
     while (true)
     {
